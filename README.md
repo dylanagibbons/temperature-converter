@@ -12,7 +12,7 @@ Converts temperatures between Celsius and Fahrenheit.
 
 ## Planned Features
  - [ ] Loop functionality for multiple conversions
- - [ ] Interactive user input
+ - [x] Interactive user input
  - [ ] ncurses UI for better experience
 
 ## What I Learned
