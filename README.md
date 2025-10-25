@@ -23,7 +23,7 @@ Converts temperatures between Celsius and Fahrenheit.
 
 ## How to Run
 ```bash
-gcc temp_converter.c -o temp-converter
+gcc temp_converter.c -o temp-converter -lncurses
 ./temp-converter
 ```
 
